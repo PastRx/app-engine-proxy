@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/csgactuarial/proxy#readme",
   "dependencies": {
-    "http-proxy": "latest"
+    "@google-cloud/logging": "^4.5.1",
+    "@google-cloud/logging-winston": "^0.11.0",
+    "http-proxy": "latest",
+    "winston": "^3.2.1"
   }
 }
